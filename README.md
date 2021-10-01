@@ -40,6 +40,11 @@ it's all free, don't be stingy ⭐️ yes: D
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
+
+## Devloped By Mahmud Rafi
+- Telegram:- @Mahmud_Rafi
+- Facebook:- https://www.facebook.com/0MahmudRafi0
+
 ### WARN
 
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
