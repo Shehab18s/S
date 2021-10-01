@@ -34,9 +34,9 @@ it's all free, don't be stingy ⭐️ yes: D
 
 > Press Add secret 
 
-> Go to Action> CI> Run workflow
+> Go to Action> RootOfCyber> Run workflow
 
-> Refresh Web and go to CI> build
+> Refresh Web and go to RootOfCyber> build
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
