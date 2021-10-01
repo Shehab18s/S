@@ -42,7 +42,7 @@ it's all free, don't be stingy ⭐️ yes: D
 ```
 
 ## Devloped By Mahmud Rafi
-- Telegram:- t.me/Mahmud_Rafi
+- Telegram:- https://t.me/Mahmud_Rafi
 - Facebook:- https://www.facebook.com/0MahmudRafi0
 
 ### WARN
