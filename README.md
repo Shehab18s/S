@@ -1,4 +1,20 @@
-# Root Of Cyber
+# Root Of Cyber X(ROC-X)
+### Be an ethical........
+-YouTube Channel:
+https://www.youtube.com/c/RootOfCyber
+
+-Facebook Group: 
+https://www.facebook.com/groups/1063964397415804/
+
+-Facebook Page: 
+https://www.facebook.com/RootOfCyber
+
+-Telegram Group: 
+https://t.me/joinchat/Nw1kcCWDHDFjZTJl
+
+-Telegram Channel:
+https://t.me/RootOfCyber
+
 
 ## Free RDP 6 HOURS
 
